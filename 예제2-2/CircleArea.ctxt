@@ -1,6 +1,0 @@
-#BlueJ class context
-comment0.target=CircleArea
-comment0.text=\r\n\ \uC608\uC81C2-2(\uC0C1\uC218\ PI\uB97C\ \uC120\uC5B8\uD558\uACE0\ \uC6D0\uC758\ \uBA74\uC801\uC744\ \uAD6C\uD558\uB294\ \uD504\uB85C\uADF8\uB7A8)\r\n\ \r\n\ @author\ (\uC804\uC138\uC885)\ \r\n\ @version\ (2019-05-07)\r\n
-comment1.params=args
-comment1.target=void\ main(java.lang.String[])
-numComments=2
